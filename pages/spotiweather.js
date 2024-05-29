@@ -38,7 +38,7 @@ function Spotiweather() {
         <h2>Flask (backend) and React (frontend), coded on Visual Studio Code</h2>
         <br/>
         <h1><span className={styles.label}>APIS</span></h1>
-        <h2>Spotify API, OpenWeatherMap API, and GeoLocation API</h2>
+        <h2>Spotify API, OpenWeatherMap API, and GeoDB Cities API</h2>
         <br/>
       </div>
     </main>
