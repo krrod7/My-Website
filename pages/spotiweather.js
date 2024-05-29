@@ -32,7 +32,7 @@ function Spotiweather() {
         <h2>Right now, it's not testable based on the way the Spotify API works, but I'm working on test account to provide for you! But when it's ready, go back to the project home page and click on the Spotiweather image!</h2>
         <br/>
         <h1><span className={styles.label}>ABOUT</span></h1>
-        <h2>Collaborated with 2 classmates to design and develop a web application that curates a music playlist based on the weather of the user's current location. Since I wanted to start learning React.js, I took the backend from this class project and created a frontend for it! I also added the feature to search for a location I would want a playlist for, rather than just automatically taking the user's current location.</h2>
+        <h2>Collaborated with 2 classmates to design and develop a web application that curates a music playlist based on the weather of the user's current location, as well as adding the playlist to your Spotify account under your library. Since I wanted to start learning React.js, I took the backend from this class project and created a frontend for it! I also added the feature to search for a location I would want a playlist for, rather than just automatically taking the user's current location.</h2>
         <br/>
         <h1><span className={styles.label}>DEV TOOLS</span></h1>
         <h2>Flask (backend) and React (frontend), coded on Visual Studio Code</h2>
